@@ -7,3 +7,4 @@ pipeline {
                 echo 'Building the war file'
             }
         }
+    }
